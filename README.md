@@ -1,6 +1,16 @@
 MeowFit
 =======
 
-AI for a robotic laser-pointer, Written for Arduino
+The MeowFit is an Arduino-based, robotic laser-pointer built to get lazy cats moving. 
 
-http://arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png
+You can view the project at [BuckYoung.com](http://buckyoung.com/portfolio/meowfit/).
+
+Featured here is the Arduino's .ini file which constitutes the AI behind the laser-pointer. I have attempted to make the code easy to read and edit for personal use.
+
+The AI is designed to be interesting and get the most movement out of even the laziest cats!
+
+Feel free to use this code in any of your projects. 
+
+![alt text](http://buckyoung.com/portfolio/img/meow.png)
+
+![alt text](http://arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png)
