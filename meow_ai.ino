@@ -2,7 +2,7 @@
  * MeowFit AI by Buck Young
  *   Written in C for the Arduino microcontroller
  *
- *  You can view the project at BuckYoung.com/portfolio/meowfit
+ *  You can view the project at BuckYoung.com/
  */
 
 // Note on built-in function, random: random(x, y) returns a value from x INCLUSIVE and y EXCLUSIVE 
