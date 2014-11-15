@@ -11,6 +11,6 @@ The AI is designed to be interesting and get the most movement out of even the l
 
 Feel free to use this code in any of your projects. 
 
-![alt text](http://buckyoung.com/wp-res/portfolio/meow/thumb.png)
+![alt text](http://buckyoung.com/wp-res/portfolio/meow/1.png)
 
 ![alt text](http://arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png)
